@@ -24,8 +24,8 @@ Players take turns choosing columns to drop their marker until the matrix is ful
 Written in python with the core of the code written by GrokAI using the prompt "how would you program a game of connect-four in python that could be played in the terminal"
 Additinal comments have been added to explain the code
 
-#### Collaborators
+### Collaborators
 Ride802
 
-#### Licenses
+### Licenses
 MIT Licence
